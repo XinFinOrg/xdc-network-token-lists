@@ -164,8 +164,15 @@
         "decimals": 6,
         "chainId": 50,
         "logoURI": "https://raw.githubusercontent.com/XinFinOrg/xdc-network-token-lists/main/tokens/USNOTA.png"
+      },
+      {
+        "name": "ECOIN",
+        "address": "xdc536dd70445cea1e97f9bf1bada04cbda5199a2a1",
+        "symbol": "ECOIN",
+        "decimals": 10,
+        "chainId": 50,
+        "logoURI": "https://raw.githubusercontent.com/XinFinOrg/xdc-network-token-lists/main/tokens/ECOIN.png"
       }
-       
 
     ]
   }
