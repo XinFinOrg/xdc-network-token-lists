@@ -2,6 +2,18 @@
   "name": "XDC Network Token List",
   "logoURI": "https://raw.githubusercontent.com/XinFinOrg/xdc-network-token-lists/main/tokens/XDC.png",
   "timestamp": "2022-09-28T08:00:00.000+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+    },
+    "tags": {},
+    "keywords": [
+    "xdc",
+    "xdc network",
+    "xrc20",
+    "tradefinex"
+    ],
   "tokens": [
     {
       "name": "StorX",
